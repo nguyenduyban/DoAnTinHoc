@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLSPhan3", "QLSPhan3\QLSPhan3.csproj", "{180B6816-164A-480B-B1F4-1B4A448933D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180B6816-164A-480B-B1F4-1B4A448933D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180B6816-164A-480B-B1F4-1B4A448933D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180B6816-164A-480B-B1F4-1B4A448933D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180B6816-164A-480B-B1F4-1B4A448933D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437F540D-6A79-4EEC-90B1-5B1A84FDDD3C}
+	EndGlobalSection
+EndGlobal
