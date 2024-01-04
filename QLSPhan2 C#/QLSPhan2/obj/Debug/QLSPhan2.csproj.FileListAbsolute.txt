@@ -1,0 +1,7 @@
+C:\Users\Duy Bản\NguyenDuyBan_DH52101856\QLSPhan2\QLSPhan2\bin\Debug\QLSPhan2.exe.config
+C:\Users\Duy Bản\NguyenDuyBan_DH52101856\QLSPhan2\QLSPhan2\bin\Debug\QLSPhan2.exe
+C:\Users\Duy Bản\NguyenDuyBan_DH52101856\QLSPhan2\QLSPhan2\bin\Debug\QLSPhan2.pdb
+C:\Users\Duy Bản\NguyenDuyBan_DH52101856\QLSPhan2\QLSPhan2\obj\Debug\QLSPhan2.csproj.AssemblyReference.cache
+C:\Users\Duy Bản\NguyenDuyBan_DH52101856\QLSPhan2\QLSPhan2\obj\Debug\QLSPhan2.csproj.CoreCompileInputs.cache
+C:\Users\Duy Bản\NguyenDuyBan_DH52101856\QLSPhan2\QLSPhan2\obj\Debug\QLSPhan2.exe
+C:\Users\Duy Bản\NguyenDuyBan_DH52101856\QLSPhan2\QLSPhan2\obj\Debug\QLSPhan2.pdb
