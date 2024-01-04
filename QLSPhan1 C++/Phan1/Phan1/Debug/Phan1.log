@@ -1,0 +1,6 @@
+﻿  caidat.cpp
+  chuongtrinh.cpp
+  Generating Code...
+chuongtrinh.obj : error LNK2005: "struct Book * danhSachSach" (?danhSachSach@@3PAUBook@@A) already defined in caidat.obj
+chuongtrinh.obj : error LNK2005: "int soLuongSach" (?soLuongSach@@3HA) already defined in caidat.obj
+C:\Users\Duy Bản\Documents\QLSACH\Phan1\Debug\Phan1.exe : fatal error LNK1169: one or more multiply defined symbols found
